@@ -1,19 +1,24 @@
-header{
+header {
     background-color: rgb(210, 199, 199);
     text-align: center;
 }
-hr{
+
+hr {
     border-color: rgb(159, 240, 240);
 }
-h2{
+
+h2 {
     color: aqua;
 }
-h3{
+
+h3 {
     font-style: italic;
 }
-footer{
+
+footer {
     text-align: center;
 }
-main{
+
+main {
     padding: 10px;
 }
