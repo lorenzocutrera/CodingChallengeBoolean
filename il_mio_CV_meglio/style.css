@@ -1,0 +1,55 @@
+body {
+    background-color: #feba12;
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-color: #515251;
+}
+
+footer,
+header {
+    text-align: center;
+}
+
+main {
+    margin: 10px auto;
+    width: 90%;
+}
+
+hr {
+    border-color: black;
+
+}
+
+h1 {
+    color: #feba12;
+}
+
+h2 {
+    color: 515251;
+}
+
+h3 {
+    font-style: italic;
+}
+
+p {
+    font-weight: 400;
+}
+
+
+.experience,
+.education,
+.interests {
+    width: 45%;
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: #515251 solid 1px;
+}
+
+#fullwidht {
+    width: 95%;
+}

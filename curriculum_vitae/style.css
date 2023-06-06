@@ -1,0 +1,19 @@
+header{
+    background-color: rgb(210, 199, 199);
+    text-align: center;
+}
+hr{
+    border-color: rgb(159, 240, 240);
+}
+h2{
+    color: aqua;
+}
+h3{
+    font-style: italic;
+}
+footer{
+    text-align: center;
+}
+main{
+    padding: 10px;
+}
